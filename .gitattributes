@@ -1,0 +1,5 @@
+*.dart linguist-language=Dart
+
+*.cpp linguist-language=false
+*.h linguist-language=false
+*.hpp linguist-language=false
